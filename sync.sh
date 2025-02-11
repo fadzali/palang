@@ -1,4 +1,9 @@
 #!/bin/bash
+##############
+# Author:Mohd Fadzali Bakar
+# Date: 11 Feb 2024
+###############
+
 
 # FTP server A details (from which file will be downloaded)
 SERVER_A="10.x.x.x"
